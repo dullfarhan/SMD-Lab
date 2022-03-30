@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Lab_Work_SMD_Section_BSCS_6C</string>
+    <string name="go_to_second_activity">Go To Second Activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="first_value">First Value</string>
+    <string name="second_value">Second Value</string>
+    <string name="todo">TODO</string>
+    <string name="opencamera">openCamera</string>
+    <string name="cgap">CGAP</string>
+    <string name="cnic">CNIC</string>
+    <string name="phone">Phone</string>
+    <string name="button">Button</string>
+    <string name="show_alert">Show Alert</string>
+    <string name="go_to_second_activity1">Go to Second Activity</string>
+
+    <string name="save_my_pref">Save my Pref</string>
+    <string name="show_my_preferance">Show my preferance</string>
+    <string name="textview">TextView</string>
+    <string name="title_activity_list_view_example_one">listViewExampleOne</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="name">name</string>
+    <string name="company">Company</string>
+    <string name="price">price</string>
+    <string name="check_permssion">check Permssion</string>
+    <string name="request_premission">Request Premission</string>
+    <string name="downlad_image">Downlad Image</string>
+    <string name="string_todo" />
+    <string name="downlaod_web_content">Downlaod Web Content</string>
+    <string name="web_content_will_be_appeared">web Content Will be appeared</string>
+    <string name="this_is_potrait">This is potrait</string>
+    <string name="this_is_landscape">This is Landscape</string>
+    <string name="check_permissions">Check Permissions</string>
+
+
+    <string-array name="myArray">
+        <item>Samsung</item>
+        <item>Iphone</item>
+        <item>Xoumi</item>
+        <item>Huawei</item>
+        <item>hello</item>
+        <item>11ng</item>
+        <item>wemsung</item>
+        <item>Sherok</item>
+        <item>Amend</item>
+        <item>nohomo</item>
+
+
+    </string-array>
+
+</resources>
