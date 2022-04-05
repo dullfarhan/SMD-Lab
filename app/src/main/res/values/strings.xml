@@ -90,4 +90,18 @@
 
     </string-array>
 
+    <string-array name="contacts_array">
+        <item>Ali</item>
+        <item>Ahmed</item>
+        <item>Uzair</item>
+        <item>kashif</item>
+
+
+    </string-array>
+    <string-array name="details_array">
+        <item>details of ali</item>
+        <item>details of ahmed</item>
+        <item>details of uzair</item>
+        <item>details of kashif</item>
+    </string-array>
 </resources>
