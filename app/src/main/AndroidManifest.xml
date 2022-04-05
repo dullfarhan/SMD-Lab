@@ -15,6 +15,33 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab_Work_SMD_Section_BSCS_6C">
         <activity
+            android:name=".static_fargmanet_Example.myConstactsMainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".filehandelingExample.fileHandelingExampleOne"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".task3CityList.cityListActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".permissionExamples.PremissionExampleTwoWithDexter"
             android:exported="true">
             <intent-filter>

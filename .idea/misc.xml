@@ -6,9 +6,11 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.193" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.193" />
         <entry key="app/src/main/res/layout/activity_alert_dilog_example_one.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_city_list.xml" value="0.365036231884058" />
         <entry key="app/src/main/res/layout/activity_downlad_img_example.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_download_image_example.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_fargment_example_one.xml" value="0.15579710144927536" />
+        <entry key="app/src/main/res/layout/activity_file_handeling_example_one.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_image_and_text_main.xml" value="0.15579710144927536" />
         <entry key="app/src/main/res/layout/activity_intent_actavity_opengallry.xml" value="0.12590579710144928" />
         <entry key="app/src/main/res/layout/activity_intent_example1.xml" value="0.22" />
@@ -17,6 +19,7 @@
         <entry key="app/src/main/res/layout/activity_intent_example_second.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_list_view_example_one2.xml" value="0.15104166666666666" />
         <entry key="app/src/main/res/layout/activity_multi_column_list_view_example.xml" value="0.13489583333333333" />
+        <entry key="app/src/main/res/layout/activity_my_constacts_main.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_my_example.xml" value="0.11594202898550725" />
         <entry key="app/src/main/res/layout/activity_my_list_view_example.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_permission_example_one.xml" value="0.19270833333333334" />
@@ -37,6 +40,7 @@
         <entry key="app/src/main/res/layout/mobile_row.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/multicolumnlistview.xml" value="0.22" />
         <entry key="app/src/main/res/layout/pm_fargmant.xml" value="0.15579710144927536" />
+        <entry key="app/src/main/res/layout/taskcitylist.xml" value="0.33" />
       </map>
     </option>
   </component>

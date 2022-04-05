@@ -38,6 +38,10 @@
     <string name="this_is_potrait">This is potrait</string>
     <string name="this_is_landscape">This is Landscape</string>
     <string name="check_permissions">Check Permissions</string>
+    <string name="save_file">save File</string>
+    <string name="namea">Name</string>
+    <string name="show_file">show File</string>
+    <string name="write_your_text">write your text</string>
 
 
     <string-array name="myArray">
@@ -52,6 +56,37 @@
         <item>Amend</item>
         <item>nohomo</item>
 
+
+    </string-array>
+
+    <string-array name="city">
+        <item>Lahore</item>
+        <item>ISalambad</item>
+        <item>FaisalAboad</item>
+        <item>Mualtan</item>
+        <item>Gojry</item>
+        <item>Chinot</item>
+        <item>Islooo</item>
+
+    </string-array>
+    <string-array name="likes">
+        <item>11kk</item>
+        <item>22.1k</item>
+        <item>13k</item>
+        <item>3.2k</item>
+        <item>4.7k</item>
+        <item>55k</item>
+        <item>4l</item>
+
+    </string-array>
+    <string-array name="visitors">
+        <item>156456</item>
+        <item>14534</item>
+        <item>143534</item>
+        <item>897678</item>
+        <item>6757</item>
+        <item>56756</item>
+        <item>67567</item>
 
     </string-array>
 
