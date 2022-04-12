@@ -15,6 +15,26 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab_Work_SMD_Section_BSCS_6C">
         <activity
+            android:name=".cardView.ScrollingActivityMain"
+            android:exported="true"
+            android:label="@string/title_activity_scrolling_main"
+            android:theme="@style/Theme.Lab_Work_SMD_Section_BSCS_6C.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".task4.Task4MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
             android:name=".CommunicationBwFragments.CMMainActivity"
             android:exported="true">
             <intent-filter>

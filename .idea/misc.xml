@@ -7,7 +7,8 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.193" />
         <entry key="app/src/main/res/layout/activity_alert_dilog_example_one.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_card_view_main.xml" value="0.19270833333333334" />
-        <entry key="app/src/main/res/layout/activity_city_list.xml" value="0.365036231884058" />
+        <entry key="app/src/main/res/layout/activity_city_list.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_city_list2.xml" value="0.24048913043478262" />
         <entry key="app/src/main/res/layout/activity_cmmain.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_downlad_img_example.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_download_image_example.xml" value="0.1" />
