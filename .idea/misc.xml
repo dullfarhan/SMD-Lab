@@ -6,12 +6,15 @@
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.193" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.193" />
         <entry key="app/src/main/res/layout/activity_alert_dilog_example_one.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_bound_service_example_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_card_view_main.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_city_list.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_city_list2.xml" value="0.24048913043478262" />
         <entry key="app/src/main/res/layout/activity_cmmain.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_contact_entery.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_downlad_img_example.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_download_image_example.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_edit_contact_entery.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_fargment_example_one.xml" value="0.15579710144927536" />
         <entry key="app/src/main/res/layout/activity_file_handeling_example_one.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_image_and_text_main.xml" value="0.15579710144927536" />
@@ -21,17 +24,21 @@
         <entry key="app/src/main/res/layout/activity_intent_example_dail_pad.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_intent_example_second.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_list_view_example_one2.xml" value="0.15104166666666666" />
+        <entry key="app/src/main/res/layout/activity_main_contact_list.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_multi_column_list_view_example.xml" value="0.13489583333333333" />
         <entry key="app/src/main/res/layout/activity_my_constacts_main.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_my_example.xml" value="0.11594202898550725" />
         <entry key="app/src/main/res/layout/activity_my_list_view_example.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_new_contact.xml" value="0.23428815733219324" />
         <entry key="app/src/main/res/layout/activity_permission_example_one.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_premission_example_two_with_dexter.xml" value="0.15579710144927536" />
+        <entry key="app/src/main/res/layout/activity_promixity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_recycler_view_main.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_safr_first.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_safr_first2.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_safr_second.xml" value="0.19270833333333334" />
         <entry key="app/src/main/res/layout/activity_sensor_example_one.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/layout/activity_service_example_one_main.xml" value="0.10416666666666667" />
         <entry key="app/src/main/res/layout/activity_sheared_pref_example.xml" value="0.13489583333333333" />
         <entry key="app/src/main/res/layout/activity_sheared_pref_example_one.xml" value="0.13489583333333333" />
         <entry key="app/src/main/res/layout/activity_sheared_pref_example_one2.xml" value="0.13489583333333333" />
