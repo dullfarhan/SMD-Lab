@@ -208,4 +208,10 @@
     <string name="contacts">contacts</string>
     <string name="add_contact">add contacts</string>
     <string name="buttonsavetosql2">buttonsavetosql</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button1">Button</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps1">lable</string>
+    <!--    <string name="todo">TODO</string>-->
 </resources>

@@ -23,7 +23,7 @@ public class ShearedPrefExampleOne extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sheared_pref_example_one2);
-        sharedPreferences=getSharedPreferences("Myfile",0);
+        sharedPreferences=getSharedPreferences("Myfile",MODE_PRIVATE);//MODE_PRIVATE=0
         textView=findViewById(R.id.txtmypref);
         listView=findViewById(R.id.mylistpref);
     }

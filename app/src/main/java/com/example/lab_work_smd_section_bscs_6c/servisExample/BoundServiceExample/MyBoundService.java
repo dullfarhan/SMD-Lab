@@ -28,6 +28,7 @@ public class MyBoundService extends Service {
     public IBinder onBind(Intent intent) {
         return null;
     }
+
     public class MyBinder extends Binder
     {
         MyBoundService getServiceMethod(){

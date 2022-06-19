@@ -27,6 +27,9 @@ public class NewContactActivity extends AppCompatActivity {
         homeAddress=findViewById(R.id.edthomeaddress);
         dbTools = new DbTools(getApplicationContext());
         button= findViewById(R.id.btnsave);
+        chalja();
+    }
+    public void chalja(){
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -39,9 +42,7 @@ public class NewContactActivity extends AppCompatActivity {
                 contact.put("homeAddress",homeAddress.getText().toString());
 //        contact.put("firstName",firstname.getText().toString());
                 dbTools.AddContact(contact);
-            }
-        });
+            }});
     }
-
 
 }

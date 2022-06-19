@@ -30,27 +30,27 @@ public class downladImgExample extends AppCompatActivity {
 
         @Override
         protected Bitmap doInBackground(String... strings) {
-            URL url = null;
             try {
-                url = new URL(strings[0]);
-                HttpURLConnection connection= (HttpURLConnection) url.openConnection();
+                URL url = new URL(strings[0]);
+                HttpURLConnection connection = (HttpURLConnection) url
+                        .openConnection();
+                connection.setDoInput(true);
                 connection.connect();
-                InputStream inputStream = connection.getInputStream();
-                Bitmap bitmap= BitmapFactory.decodeStream(inputStream);
-                return bitmap;
-            } catch (MalformedURLException e) {
-                e.printStackTrace();
+                InputStream input = connection.getInputStream();
+                Bitmap myBitmap = BitmapFactory.decodeStream(input);
+                return myBitmap;
             } catch (IOException e) {
                 e.printStackTrace();
+                return null;
             }
-            return null;
+
         }
     }
     public void download_Image(View view) {
         Download download= new Download();
         try {
             Bitmap bitmap=download
-                    .execute("https://cdn.thinglink.me/api/image/854796788643659778/1240/10/scaletowidt&quot").get();
+                    .execute("http://cdn.thinglink.me/api/image/854796788643659778/1240/10/scaletowidt&quot").get();
                     imageView.setImageBitmap(bitmap);
         } catch (ExecutionException e) {
             e.printStackTrace();

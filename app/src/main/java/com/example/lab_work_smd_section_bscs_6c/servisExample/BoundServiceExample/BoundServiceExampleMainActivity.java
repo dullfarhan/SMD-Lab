@@ -16,6 +16,9 @@ import com.example.lab_work_smd_section_bscs_6c.R;
 public class BoundServiceExampleMainActivity extends AppCompatActivity {
     MyBoundService myBoundServiceMediaPlayerSerivce;
     public boolean myBoundService = false;
+
+
+
     public final ServiceConnection myServiceConnection = new ServiceConnection() {
         @Override
         public void onServiceConnected(ComponentName componentName, IBinder iBinder) {
